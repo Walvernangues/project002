@@ -1,0 +1,16 @@
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\bin\Debug\net5.0\project002.exe
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\bin\Debug\net5.0\project002.deps.json
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\bin\Debug\net5.0\project002.runtimeconfig.json
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\bin\Debug\net5.0\project002.runtimeconfig.dev.json
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\bin\Debug\net5.0\project002.dll
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\bin\Debug\net5.0\ref\project002.dll
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\bin\Debug\net5.0\project002.pdb
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\obj\Debug\net5.0\project002.csprojAssemblyReference.cache
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\obj\Debug\net5.0\project002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\obj\Debug\net5.0\project002.AssemblyInfoInputs.cache
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\obj\Debug\net5.0\project002.AssemblyInfo.cs
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\obj\Debug\net5.0\project002.csproj.CoreCompileInputs.cache
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\obj\Debug\net5.0\project002.dll
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\obj\Debug\net5.0\ref\project002.dll
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\obj\Debug\net5.0\project002.pdb
+C:\Users\vx736\Documents\Sistemas\applocal\dotnet\project002\obj\Debug\net5.0\project002.genruntimeconfig.cache
